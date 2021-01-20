@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/NeihTzxc/my-app/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/NeihTzxc/my-app/static/js/main.6976eabf.chunk.js",
+    "main.js.map": "/NeihTzxc/my-app/static/js/main.6976eabf.chunk.js.map",
+    "runtime-main.js": "/NeihTzxc/my-app/static/js/runtime-main.6930b7d1.js",
+    "runtime-main.js.map": "/NeihTzxc/my-app/static/js/runtime-main.6930b7d1.js.map",
+    "static/js/2.7599c84a.chunk.js": "/NeihTzxc/my-app/static/js/2.7599c84a.chunk.js",
+    "static/js/2.7599c84a.chunk.js.map": "/NeihTzxc/my-app/static/js/2.7599c84a.chunk.js.map",
+    "static/js/3.63fb59fc.chunk.js": "/NeihTzxc/my-app/static/js/3.63fb59fc.chunk.js",
+    "static/js/3.63fb59fc.chunk.js.map": "/NeihTzxc/my-app/static/js/3.63fb59fc.chunk.js.map",
+    "index.html": "/NeihTzxc/my-app/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/NeihTzxc/my-app/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.7599c84a.chunk.js.LICENSE.txt": "/NeihTzxc/my-app/static/js/2.7599c84a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/NeihTzxc/my-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6930b7d1.js",
+    "static/js/2.7599c84a.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.6976eabf.chunk.js"
+  ]
+}
